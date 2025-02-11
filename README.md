@@ -1,6 +1,6 @@
 - 👋 Hey Y'all, I’m @chrizzletoph
 - 👀 getting back into tech after 10y
-- 🌱 omw to be a data analyst
+- 🌱 omw to become a data analyst
 - 💞️ "Be yourself. You'll be fine."
 
 <!---
